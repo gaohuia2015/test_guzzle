@@ -1,0 +1,13 @@
+{
+    "name": "gaohuia2015/test_guzzle",
+    "description": "a test for using guzzle",
+    "authors": [
+        {
+            "name": "gaohuia",
+            "email": "www@zeroplace.cn"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    }
+}
